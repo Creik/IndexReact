@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/IndexReact/static/css/main.22f8f63e.chunk.css",
-    "main.js": "/IndexReact/static/js/main.14807705.chunk.js",
-    "main.js.map": "/IndexReact/static/js/main.14807705.chunk.js.map",
+    "main.css": "/IndexReact/static/css/main.58a54ea8.chunk.css",
+    "main.js": "/IndexReact/static/js/main.23bd0503.chunk.js",
+    "main.js.map": "/IndexReact/static/js/main.23bd0503.chunk.js.map",
     "runtime-main.js": "/IndexReact/static/js/runtime-main.a95b8c98.js",
     "runtime-main.js.map": "/IndexReact/static/js/runtime-main.a95b8c98.js.map",
     "static/js/2.6c9788bc.chunk.js": "/IndexReact/static/js/2.6c9788bc.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.9da7a48d.chunk.js": "/IndexReact/static/js/3.9da7a48d.chunk.js",
     "static/js/3.9da7a48d.chunk.js.map": "/IndexReact/static/js/3.9da7a48d.chunk.js.map",
     "index.html": "/IndexReact/index.html",
-    "static/css/main.22f8f63e.chunk.css.map": "/IndexReact/static/css/main.22f8f63e.chunk.css.map",
+    "static/css/main.58a54ea8.chunk.css.map": "/IndexReact/static/css/main.58a54ea8.chunk.css.map",
     "static/js/2.6c9788bc.chunk.js.LICENSE.txt": "/IndexReact/static/js/2.6c9788bc.chunk.js.LICENSE.txt",
     "static/media/amazarashi.c93af8db.jpg": "/IndexReact/static/media/amazarashi.c93af8db.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a95b8c98.js",
     "static/js/2.6c9788bc.chunk.js",
-    "static/css/main.22f8f63e.chunk.css",
-    "static/js/main.14807705.chunk.js"
+    "static/css/main.58a54ea8.chunk.css",
+    "static/js/main.23bd0503.chunk.js"
   ]
 }
